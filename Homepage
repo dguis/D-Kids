@@ -20,22 +20,10 @@
     </head>
     <body>
 <h1>DKIDS</h1>
-<ul class="list"><li><button class="gamepage"><a href="http://blguisti.com/Dallin/Games.html" class="gamepage">Game page</a></button></li><br><br>
-    <li><button class="recipe"><a href="http://blguisti.com/Dallin/recipe.html" class="recipe">Recipe Book</a></button></li>
-    <br><br>
-    <li><button class="proG"><a href="http://blguisti.com/Dallin/Calculator.html" class="proG">Calculator</a></button></li>
-    <br><br>
-    <li><button class="proG"><a href="http://blguisti.com/Dallin/HTMLtest.html" class="proG">HTML Test</a></button></li>
-    <br><br>
-    <li><button class="proG"><a href="http://blguisti.com/Dallin/Persuasive.html" class="proG">Pursuasive Writing</a></button></li>
-    <br><br>
-    <li><button class="nice"><a href="http://blguisti.com/Dallin/Parker_web.html" class="nice">Parker's burn site</a></button></li>
-    
-</ul>
-<script>
-//Just in case!!!
-var recipe = document.getElementById("recipe")
-
-</script>
+<nav>
+<a>Games</a>
+<a>Education</a>
+<a>Messing Around With Programming</a>
+</nav>
     </body>
 </html>  
