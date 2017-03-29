@@ -1,4 +1,4 @@
-nav a{background-color:#16AFFF; text-decoration:none; color:#FFFF00;} 
+nav a{background-color:#16AFFF; text-decoration:none; color:#FFFF00; border: 1px solid black;} 
 nav a:hover{background-color:#2B78FF;}
 body{background-color:#59FF0D;}
 .selected{background-color:#194491;}
