@@ -1,4 +1,5 @@
-.nav a{background-color:#16AFFF; text-decoration:none; color:#FFFF00; border: 1px solid black; display: inline-block;} 
+.nav a{background-color:#16AFFF; text-decoration:none; color:#FFFF00; border: 1px solid black; display: inline-block; font-size: 50px;} 
 .nav a:hover{background-color:#2B78FF;}
 body{background-color:#59FF0D; text-align: center;}
-.selected{background-color:#194491; text-decoration:none; color:#FFFF00; border: 1px solid black; display: inline-block;}
+.selected{background-color:#194491; text-decoration:none; color:#FFFF00; border: 1px solid black; display: inline-block; font-size: 50px;}
+h1{font-size:75px; color: #25FFFC;}
