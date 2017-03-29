@@ -1,2 +1,3 @@
 .navigation a{background-color:#16AFFF;} 
-.navigation a:hover{background-color:#2B78FF;}
+.selected, .navigation a:hover{background-color:#2B78FF;}
+body{background-color:#59FF0D;}
