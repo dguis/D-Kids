@@ -6,7 +6,7 @@
 
         <meta charset="utf-8">
 
-        <title>DKIDS Home page</title>
+        <title>DKIDS Game page</title>
 
         <link href="style.css" rel="stylesheet">
 
@@ -31,12 +31,17 @@
         <span onClick="scratch();">Scratch Games</span>
         <span onClick="coming();">Canvas Games</span>
         </div>
+      <div id="scratch" style="display: none;">
+        <p>Scratch games go here!</p>
+      
+      </div>
 <script>
   var coming = function(){
     alert("Coming Soon!");}
   var scratch = function(){
   coming();
-  
+  var sg = document.get.elementById("scratch");
+    sg.style.display="";
   }
       </script>
     </body>
