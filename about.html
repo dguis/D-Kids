@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+
+
+<html>
+
+
+
+  <head>
+
+
+
+    <meta charset="utf-8">
+
+
+
+    <title>Password Box</title>
+
+
+
+  </head>
+
+
+
+  <body>
+
+
+
+    <textarea id="pass">Password goes here!</textarea>
+
+
+
+    <button onClick="event1();">Submit Password</button>
+
+
+
+    <script>
+
+
+
+      var event1 = function(){
+
+var box = document.getElementById("pass");
+
+
+
+      var password = box.innerHTML;
+
+if (password === "3685") {
+
+    alert("That's the password!");
+
+}
+
+else {
+
+alert("Incorrect!")
+
+
+
+}
+
+}
+
+    </script>
+
+
+
+    
+
+
+
+  </body>
+
+
+
+</html>
