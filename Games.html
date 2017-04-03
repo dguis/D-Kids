@@ -1,58 +1,116 @@
 <!DOCTYPE html>
 
+
+
 <html>
+
+
 
     <head>
 
+
+
         <meta charset="utf-8">
+
+
 
         <title>DKIDS Game page</title>
 
+
+
         <link href="style.css" rel="stylesheet">
+
+
 
     </head>
 
+
+
     <body>
 
+
+
 <h1>DKIDS Games</h1>
+
 <nav class="nav">
+
+
 
 <a href="index.html">Home</a>
 
+
+
 <span class="selected">Games</span>
+
 <a href="Education.html">Education</a>
 
+
+
 <a href="Programming.html">Messing Around With Programming</a>
+
     <a href="about.html">About Me</a>
+
+<a href="D-Multi.html">D-Multi</a>
 </nav>
+
         <br>
+
                 <img src="logo.jpg" alt="D-Multi logo" width="260" height="250">
+
         <br>
+
         <div>
+
         <span onClick="scratch();" class="games">Scratch Games</span>
+
         <span onClick="coming();" class="games">Canvas Games</span>
+
         <br>
+
             <br>
+
       <div id="scratch" style="display: none;">
+
           <span onClick="birthday();" class="games">Birthday Game</span>
+
             </div> 
+
             <br>
+
           <div id="birthday" style="display: none;">
+
               <iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/118848757/?autostart=true" frameborder="0" allowfullscreen></iframe>
+
           </div>
+
           </div>
+
 <script>
+
   var coming = function(){
+
     alert("Coming Soon!");}
+
   var scratch = function(){
+
   var sg = document.getElementById("scratch");
+
     sg.style.display = "";
+
   }
+
   var birthday = function(){
+
       var bg = document.getElementById("birthday")
+
       bg.style.display = "";
+
   }
+
       </script>
+
     </body>
+
+
 
 </html>  
