@@ -48,7 +48,7 @@
 
 <a href="Programming.html">Messing Around With Programming</a>
 
-    <a href="about.html">About Me</a>
+   <a href="about.html">About Me</a>
 
 <a href="D-Multi.html">D-Multi</a>
 </nav>
@@ -60,7 +60,7 @@
         <br>
 
         <div>
-
+    
         <span onClick="scratch();" class="games">Scratch Games</span>
 
         <span onClick="coming();" class="games">Canvas Games</span>
@@ -70,7 +70,7 @@
             <br>
 
       <div id="scratch" style="display: none;">
-
+<span onClick="luke();" class="games">Luke Game</span>
           <span onClick="birthday();" class="games">Birthday Game</span>
 <span onClick="csg();" class="games">Close Scratch Games</span>
             </div> 
@@ -82,7 +82,10 @@
               <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/118848757/?autostart=true" frameborder="0" allowfullscreen></iframe>
 <span onClick="csbg();" class="games">Close Birthday Game</span>
           </div>
-
+            <div i>
+<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/118848757/?autostart=true" frameborder="0" allowfullscreen></iframe>
+<span onClick="cslg();" class="games">Close Luke Game</span>
+          </div>
           </div>
 
 <script>
@@ -104,6 +107,13 @@
       var bg = document.getElementById("birthday");
 
       bg.style.display = "";
+
+  }
+  var luke = function(){
+
+      var lg = document.getElementById("birthday");
+
+      lg.style.display = "";
 
   }
 var csg = function(){
