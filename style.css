@@ -3,6 +3,7 @@
 body{background-color:#59FF0D; text-align: center;}
 .selected{background-color:#194491; text-decoration:none; color:#FFFF00; border: 1px solid yellow; display: inline-block; font-size: 50px; font-family: Impact, Charcoal, sans-serif;}
 h1{font-size:75px; color: #25FFFC; font-family: "Comic Sans MS", cursive, sans-serif;}
-.games{color: white; font-size: 30px; background-color:aqua; border: 1px solid black; text-decoration:none; display: block;}
+.games{color: white; font-size: 30px; background-color:aqua; border: 1px solid black; text-decoration:none;}
 .games:hover{background-color:lightBlue; border-color: yellow;}
+#scratch{ display: block; width: 100px;}
 span, a{margin-bottom:5px;}
