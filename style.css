@@ -5,5 +5,5 @@ body{background-color:#59FF0D; text-align: center;}
 h1{font-size:75px; color: #25FFFC; font-family: "Comic Sans MS", cursive, sans-serif;}
 .games{color: white; font-size: 30px; background-color:aqua; border: 1px solid black; text-decoration:none;}
 .games:hover{background-color:lightBlue; border-color: yellow;}
-#scratch{ display: block; width: 100px;}
+.scratchs{ display: block; width: 100px;}
 span, a{margin-bottom:5px;}
