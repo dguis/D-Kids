@@ -7,3 +7,4 @@ h1{font-size:75px; color: #25FFFC; font-family: "Comic Sans MS", cursive, sans-s
 .games:hover{background-color:lightBlue; border-color: yellow;}
 .scratchs{ display: block; width: 400px; margin: 5px auto;}
 a{margin-bottom:5px;}
+span{cursor: pointer;}
