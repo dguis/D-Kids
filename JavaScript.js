@@ -32,7 +32,7 @@
 
       bg.style.display = "";
 
-
+csg();
 
   }
 
@@ -46,7 +46,7 @@
 
       lg.style.display = "";
 
-
+csg();
 
   }
 
