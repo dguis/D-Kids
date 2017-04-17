@@ -65,7 +65,7 @@ var csbg = function(){
 
 
    bg.style.display = "none";   
-
+scratch();
 }
 
 var cslg = function(){
@@ -75,5 +75,5 @@ var cslg = function(){
 
 
    lg.style.display = "none";   
-
+scratch();
 }
