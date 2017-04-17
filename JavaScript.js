@@ -77,3 +77,25 @@ var cslg = function(){
    lg.style.display = "none";   
 scratch();
 }
+var center = function(){
+
+
+
+      var cg = document.getElementById("center");
+
+
+
+      cg.style.display = "";
+
+csg();
+
+  }
+var cscg = function(){
+
+    var cg = document.getElementById("center");
+
+
+
+   cg.style.display = "none";   
+scratch();
+}
