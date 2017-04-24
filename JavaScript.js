@@ -99,3 +99,25 @@ var cscg = function(){
    cg.style.display = "none";   
 scratch();
 }
+var hunter = function(){
+
+
+
+      var hg = document.getElementById("hunter");
+
+
+
+      hg.style.display = "";
+
+csg();
+
+  }
+var cshg = function(){
+
+    var hg = document.getElementById("center");
+
+
+
+   hg.style.display = "none";   
+scratch();
+}
