@@ -114,7 +114,7 @@ csg();
   }
 var cshg = function(){
 
-    var hg = document.getElementById("center");
+    var hg = document.getElementById("hunter");
 
 
 
