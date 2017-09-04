@@ -56,6 +56,7 @@ var csg = function(){
 
     sg.style.display = "none";
 
+
 }
 
 var csbg = function(){
@@ -120,4 +121,7 @@ var cshg = function(){
 
    hg.style.display = "none";   
 scratch();
+}
+function warning() {
+    alert("Warning! This page is going to be redone by the end of September. Please make sure to check out the new site!");
 }
