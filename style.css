@@ -2,11 +2,10 @@
 .nav a:hover{background-color:#2B78FF; border-color: yellow;}
 #grad{
 background: #232198;
-/*background: -webkit-linear-gradient(#011E72, #232198, #F24704);
+background: -webkit-linear-gradient(#011E72, #232198, #F24704);
 background: -o-linear-gradient(#011E72, #232198, #F24704);
 background: -moz-linear-gradient(#011E72, #232198, #F24704);
 background: linear-gradient(#011E72, #232198, #F24704);
-*/
 width: 100%;
 }
 .selected{background-color:#194491; text-decoration:none; color:#FFFF00; border: 1px solid yellow; display: inline-block; font-size: 50px; font-family: Impact, Charcoal, sans-serif;}
