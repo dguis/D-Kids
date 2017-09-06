@@ -1,6 +1,14 @@
-.nav a{background-color:#16AFFF; text-decoration:none; color:#FFFF00; border: 1px solid black; display: inline-block; font-size: 50px; font-family: Impact, Charcoal, sans-serif;} 
+.nav a{background-color:#16AFFF; text-decoration:none; color:#FFFF00; border: 1px solid black; display: inline-block; font-size: 50px; font-family: Impact, Charcoal, sans-serif;}
 .nav a:hover{background-color:#2B78FF; border-color: yellow;}
-body{background-color:#59FF0D; text-align: center;}
+#grad{
+background: #232198;
+/*background: -webkit-linear-gradient(#011E72, #232198, #F24704);
+background: -o-linear-gradient(#011E72, #232198, #F24704);
+background: -moz-linear-gradient(#011E72, #232198, #F24704);
+background: linear-gradient(#011E72, #232198, #F24704);
+*/
+width: 100%;
+}
 .selected{background-color:#194491; text-decoration:none; color:#FFFF00; border: 1px solid yellow; display: inline-block; font-size: 50px; font-family: Impact, Charcoal, sans-serif;}
 h1{font-size:75px; color: #25FFFC; font-family: "Comic Sans MS", cursive, sans-serif;}
 .games{color: white; font-size: 30px; background-color:aqua; border: 1px solid black; text-decoration:none;}
@@ -8,3 +16,11 @@ h1{font-size:75px; color: #25FFFC; font-family: "Comic Sans MS", cursive, sans-s
 .scratchs{ display: block; width: 400px; margin: 5px auto;}
 a{margin-bottom:5px;}
 span{cursor: pointer;}
+body{
+  background: #F24704;
+  background: -webkit-linear-gradient(#F67511, #F24704, #A63403) fixed;
+  background: -o-linear-gradient(#F67511, #F24704, #A63403) fixed;
+  background: -moz-linear-gradient(#F67511, #F24704, #A63403) fixed;
+  background: linear-gradient(#F67511, #F24704, #A63403) fixed;
+  text-align: center;
+}
