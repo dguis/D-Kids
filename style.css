@@ -50,3 +50,23 @@ body{
   line-height: 1;
   margin: 0;
 }
+.buttons a, .buttons span{
+padding: 2px;
+}
+.buttons a{
+text-decoration: none;
+color: white;
+background-color: #a2cfff;
+font-size: 30px;
+border-radius: 5px;
+}
+.buttons span{
+text-decoration: none;
+color: white;
+background-color: #3087DF;
+font-size: 30px;
+border-radius: 5px;
+}
+.buttons a:hover{
+  border-bottom: 5px solid darkblue;
+}
