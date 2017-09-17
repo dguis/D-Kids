@@ -50,11 +50,9 @@ body{
   line-height: 1;
   margin: 0;
 }
-.buttons div{
-display: inline-block;
-  }
 .buttons a, .buttons span{
 padding: 2px;
+font-family: Impact, Charcoal, sans-serif;
 }
 .buttons a{
 text-decoration: none;
