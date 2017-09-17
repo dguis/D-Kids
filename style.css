@@ -50,8 +50,8 @@ body{
   line-height: 1;
   margin: 0;
 }
-.buttons{
-display: inline;
+.buttons div{
+display: inline-block;
   }
 .buttons a, .buttons span{
 padding: 2px;
