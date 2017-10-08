@@ -50,6 +50,9 @@ body{
   line-height: 1;
   margin: 0;
 }
+.buttons div{
+padding-bottom: 10px;
+  }
 .buttons a, .buttons span{
 padding: 2px;
 font-family: Impact, Charcoal, sans-serif;
