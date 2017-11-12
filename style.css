@@ -89,3 +89,27 @@ padding-right: 50px;
 font-size: 20px;
 font-family: "Comic Sans MS", cursive, sans-serif;
 }
+
+.nav2{
+ background-color: #a2cfff;
+}
+
+.nav2 a, .nav2 span{
+  text-decoration:none;
+  color: #0069C7;
+  display: inline-block;
+  font-size: 25px;
+  font-family: Impact, Charcoal, sans-serif;
+  border-radius: 2px;
+  padding: 5px 3px 5px 5px;
+  line-height: 1;
+  margin: 0;
+}
+
+.nav2 span{
+ color: #0039B2;
+}
+
+.nav2 a:hover{
+  background-color: #34B5E5;
+}
