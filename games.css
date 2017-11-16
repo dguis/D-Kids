@@ -1,0 +1,28 @@
+div p{
+  padding: 0px;
+  font-size: 18px;
+  line-height: 1.2;
+  text-indent: 10px;
+  text-shadow: 1px 1px 1px black;
+  text-align: left;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+div a{
+  text-decoration: none;
+  color: black;
+}
+div .game{
+  display: inline-block;
+  padding: 5px;
+  vertical-align: top;
+}
+div img{
+  border: 3px solid black;
+  box-shadow: 3px 3px 3px black;
+}
+.title{
+  text-align: center;
+  font-size: 25px;
+  font-family: Impact, cursive, sans-serif;
+  text-shadow: none;
+}
