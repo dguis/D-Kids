@@ -51,8 +51,7 @@ a{margin-bottom:5px;}
 span{cursor: pointer;}
 body{
   background: #F24704;
-  background: -webkit-linear-gradient(#F67511, #F24704, #A63403) fixed;
-  background: -o-linear-gradient(#F67511, #F24704, #A63403) fixed;
+  background: -webkit-linear-gradient(#F67511, #F24704, #A63403) fixed;  background: -o-linear-gradient(#F67511, #F24704, #A63403) fixed;
   background: -moz-linear-gradient(#F67511, #F24704, #A63403) fixed;
   background: linear-gradient(#F67511, #F24704, #A63403) fixed;
   text-align: center;
@@ -117,5 +116,5 @@ font-family: "Comic Sans MS", cursive, sans-serif;
 
 .logo{
  margin: 0;
-  vertical-align: bottom;
+ vertical-align: bottom;
 }
