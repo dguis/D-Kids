@@ -64,7 +64,8 @@ padding-bottom: 10px;
   }
 .buttons a, .buttons span{
 padding: 2px;
-font-family: Impact, Charcoal, sans-serif;
+
+  font-family: Impact, Charcoal, sans-serif;
 }
 .buttons a{
 text-decoration: none;
@@ -112,4 +113,8 @@ font-family: "Comic Sans MS", cursive, sans-serif;
 
 .nav2 a:hover{
   background-color: #34B5E5;
+}
+
+nav a img{
+  background: #232198;
 }
