@@ -115,6 +115,7 @@ font-family: "Comic Sans MS", cursive, sans-serif;
   background-color: #34B5E5;
 }
 
-nav a img{
-  background: #232198;
+.logo{
+ margin: 0;
+  vertical-align: bottom;
 }
