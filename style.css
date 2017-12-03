@@ -119,6 +119,7 @@ font-family: "Comic Sans MS", cursive, sans-serif;
  vertical-align: bottom;
 }
 
-.home{
-  padding-left: 0px;
+[href='index.html'].home {
+    margin: 0px 0px 0px -4px;
 }
+
