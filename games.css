@@ -26,3 +26,6 @@ div img{
   font-family: Impact, cursive, sans-serif;
   text-shadow: none;
 }
+.logo{
+  box-shadow: none;
+}
