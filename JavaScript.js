@@ -2,7 +2,8 @@
 
 
 
-    alert("Coming Soon!");}
+    alert("Coming Soon!");
+  }
 
 
 
@@ -65,7 +66,7 @@ var csbg = function(){
 
 
 
-   bg.style.display = "none";   
+   bg.style.display = "none";
 scratch();
 }
 
@@ -75,7 +76,7 @@ var cslg = function(){
 
 
 
-   lg.style.display = "none";   
+   lg.style.display = "none";
 scratch();
 }
 var center = function(){
@@ -97,7 +98,7 @@ var cscg = function(){
 
 
 
-   cg.style.display = "none";   
+   cg.style.display = "none";
 scratch();
 }
 var hunter = function(){
@@ -119,7 +120,7 @@ var cshg = function(){
 
 
 
-   hg.style.display = "none";   
+   hg.style.display = "none";
 scratch();
 }
 function warning() {
