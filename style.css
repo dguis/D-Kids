@@ -36,8 +36,7 @@ width: 100%;
   display: inline-block;
   font-size: 35px;
   font-family: Impact, Charcoal, sans-serif;
-  /*background-color: #62CFFF;*/
-}
+  /*background-color: #62CFFF;*}
 h1{
   font-size: 50px;
   color: #FFFF00;/*Previous: 25FFFC*/
@@ -97,7 +96,7 @@ font-size: 20px;
 font-family: "Comic Sans MS", cursive, sans-serif;
 padding-top: 10px;
 padding-bottom: 10px;
-line-height: default;
+line-height: 1.25;
 }
 
 .nav2{
