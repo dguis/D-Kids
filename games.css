@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 div p{
   padding: 0px;
   font-size: 18px;
   line-height: 1.2;
   text-indent: 10px;
-  text-shadow: 1px 1px 1px black;
+  text-shadow: .25px .25px .25px black;
   text-align: left;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
 }
 div a{
   text-decoration: none;

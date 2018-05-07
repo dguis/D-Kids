@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 .nav a, nav span{/*background-color:#16AFFF;*/
   /*background-color: #D0FFFF;*/
   text-decoration:none;
   /*color:#FFFF00;*/
   color: #008CC7;
   display: inline-block;
-  font-size: 35px;
+  font-size: 25px;
   font-family: Impact, Charcoal, sans-serif;
   border-radius: 2px;
-  padding: 7px 3px 7px 5px;
+  padding: 5px 3px 5px 5px;
   line-height: 1;
   margin: 0;
 }
@@ -34,21 +36,29 @@ width: 100%;
   /*color:#FFFF00;*/
   color: #0050DE;
   display: inline-block;
-  font-size: 35px;
   font-family: Impact, Charcoal, sans-serif;
   /*background-color: #62CFFF;*/
 }
 h1{
   font-size: 50px;
-  color: #FFFF00;/*Previous: 25FFFC*/
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #FFB400;/*Previous: 25FFFC*/
+  font-family: 'Fjalla One', sans-serif;
   line-height: .2;
+  text-shadow:
+1.5px 0 black,
+1.5px 1.5px black,
+1.5px -1.5px black,
+0 1.5px black,
+0 1.5px black,
+-1.5px 0 black,
+-1.5px 1.5px black,
+-1.5px -1.5px black;
 }
 
 h2{
   font-size: 30px;
-  color: #FFFF00;/*Previous: 25FFFC*/
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: yellow;/*Previous: 25FFFC*/
+  font-family: 'Do Hyeon', sans-serif;
   line-height: .2;
 }
 .games{color: white; font-size: 30px; background-color:aqua; border: 1px solid black; text-decoration:none;}
@@ -57,10 +67,10 @@ h2{
 a{margin-bottom:5px;}
 span{cursor: pointer;}
 body{
-  background: #F24704;
-  background: -webkit-linear-gradient(#F67511, #F24704, #A63403) fixed;  background: -o-linear-gradient(#F67511, #F24704, #A63403) fixed;
+  background: lightgreen;
+  /*background: -webkit-linear-gradient(#F67511, #F24704, #A63403) fixed;  background: -o-linear-gradient(#F67511, #F24704, #A63403) fixed;
   background: -moz-linear-gradient(#F67511, #F24704, #A63403) fixed;
-  background: linear-gradient(#F67511, #F24704, #A63403) fixed;
+  background: linear-gradient(#F67511, #F24704, #A63403) fixed;*/
   text-align: center;
   line-height: 1;
   margin: 0;
@@ -94,7 +104,7 @@ border-radius: 5px;
 padding-left: 50px;
 padding-right: 50px;
 font-size: 20px;
-font-family: "Comic Sans MS", cursive, sans-serif;
+font-family: 'Do Hyeon', sans-serif;
 padding-top: 10px;
 padding-bottom: 10px;
 line-height: 1.25;
@@ -108,10 +118,10 @@ line-height: 1.25;
   text-decoration:none;
   color: #0069C7;
   display: inline-block;
-  font-size: 25px;
+  font-size: 20px;
   font-family: Impact, Charcoal, sans-serif;
   border-radius: 2px;
-  padding: 5px 3px 5px 5px;
+  padding: 3px 1px 3px 2px;
   line-height: 1;
   margin: 0;
 }
@@ -127,8 +137,17 @@ line-height: 1.25;
 .logo{
  margin: 0;
  vertical-align: bottom;
+ height: 35px;
+}
+
+a[href='index.html'].logo:hover{
+  background: none;
 }
 
 [href='index.html'].home, [href='../index.html'].home, [href='../../index.html'].home, span.home {
     margin: 0px 0px 0px -4px;
+}
+
+.text a:visited{
+  color: blue;
 }
