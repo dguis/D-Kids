@@ -42,7 +42,7 @@ input{
 </nav>
 <h1>DKIDS Games</h1>
         <br>
-        "<?php echo $_GET["Sound1"]; ?>" said the <?php echo $_GET["Adjective1"]; ?>
+        "<?php echo $_POST["Sound1"]; ?>" said the <?php echo $_POST["Adjective1"]; ?>
 
     </body>
 
