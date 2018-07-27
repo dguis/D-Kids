@@ -1,2 +1,2 @@
 # dguis.github.io/D-Kids
-My website.
+Site has been taken down. New version coming soon!
