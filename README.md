@@ -1,2 +1,2 @@
 # dguis.github.io/D-Kids
-Site has been taken down. New version coming soon!
+Sorry! This Site has been taken down. A new site is coming soon!
